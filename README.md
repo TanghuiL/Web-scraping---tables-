@@ -5,7 +5,7 @@ A very simple web scraping example for dealing with tables.
 What I did here
 	1.	The first thing I did was scraping a complex table listing all the States in the United States using BeautifulSoup and Requests  
 	2.	Scraped data was then stored in database using SQLite
-	3.	Variable distribution and correlation was visualized to make basic sense of the data. 
+	3.	Data was retrieved and visualized. 
 
 Requirements
 	0.	Python 3.x
